@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="zero">0</string>
+    <string name="indicate">Enter function</string>
+    <string name="draw">draw</string>
+    <string name="title_activity_user_notification">UserNotification</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_user_notificatioin">UserNotificatioin</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="New"
+        android:id="@+id/new_item" >
+        <menu >
+            <item android:title="f(x)"
+                android:id="@+id/new_one"/>
+            <item android:title="f(x,y)"
+                android:id="@+id/new_two"/>
+            <item android:title="f(x,y,z)"
+                android:id="@+id/new_three"/>
+            <item android:title="f(x,y,z,g)"
+                android:id="@+id/new_four"/>
+        </menu>
+    </item>
+    <item android:title="Save"
+        android:id="@+id/save_item" />
+    <item android:title="Load"
+        android:id="@+id/load_item" />
+</menu>
